@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -23,7 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-=======
+
 # has-many-through-ex
 Has many through example
->>>>>>> 95b9eb8d5fc0a3ca36e419f937a9c71bb3624256
+
